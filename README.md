@@ -1,4 +1,4 @@
-# ⚔️ [Maycon Mota] | Level 27 Explorer 
+# ⚔️ [Maycon Mota]
 
 > "Transformando bugs em logs e logs em qualidade."
 
