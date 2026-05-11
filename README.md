@@ -35,7 +35,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconMT)
 
 ---
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
 </p>
