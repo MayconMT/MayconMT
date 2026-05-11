@@ -26,6 +26,8 @@
 - **Exploração:** Interessado na intersecção entre tecnologia, agronomia e inovação.
 - **Classic Gears:** Manutenção preventiva e entusiasta de mecânica automotiva.
 
+- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayconMT&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
+
 ---
 
 ### 🤝 Conecte-se comigo
