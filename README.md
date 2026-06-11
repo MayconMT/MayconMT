@@ -1,6 +1,6 @@
 # [Maycon Mota]
 
-> "Transformando bugs em logs e logs em qualidade."
+> "Transformando bugs em logs em qualidade."
 
 ---
 
