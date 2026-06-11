@@ -1,4 +1,4 @@
-# ⚔️ [Maycon Mota]
+# [Maycon Mota]
 
 > "Transformando bugs em logs e logs em qualidade."
 
