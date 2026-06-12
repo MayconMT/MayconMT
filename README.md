@@ -5,10 +5,10 @@
 ---
 
 ### 📊 Status do Personagem
-- **Classe:** Junior QA Analyst / Python Developer
+- **Classe:** QA Analyst | Python Developer 🐍
 - **Localização:** Palmas, TO 📍
-- **Habilidades Passivas:** Automação de APIs, Identificação de Gaps, Testes de Performance.
-- **Main Quest:** Elevando a resiliência de sistemas através de frameworks robustos.
+- **Habilidades Passivas:** Automação de APIs, Análise de Gaps, Testes de Estresse & Resiliência.
+- **Main Quest:** Elevando o padrão de qualidade e a resiliência de sistemas complexos através de arquiteturas de teste escaláveis.
 
 ### 🛡️ Inventário Técnico (Tech Stack)
 - **Automação & Linguagens:** Python (Automação de testes e scripts de infraestrutura).
