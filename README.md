@@ -1,6 +1,6 @@
 # [Maycon Mota]
 
-> "Transformando bugs em logs em qualidade."
+"Caçador de bugs, arquiteto de qualidade."
 
 ---
 
@@ -11,20 +11,31 @@
 - **Main Quest:** Elevando a resiliência de sistemas através de frameworks robustos.
 
 ### 🛡️ Inventário Técnico (Tech Stack)
-- **Linguagens:** Python
-- **Frameworks de Teste:** Pytest, Cypress, Locust
-- **Ferramentas:** GitHub Actions, Docker, Postman
-- **Especialidades:** Automação de APIs (REST), Page Object Model (POM), Relatórios Dinâmicos.
+- **Automação & Linguagens:** Python (Automação de testes e scripts de infraestrutura).
+  
+#### 🧪 Frameworks de Testes:
+- **E2E & Web:** Selenium (Automação de fluxos em interfaces web).
+- **Backend & APIs:** Pytest, Behave (Implementação de BDD e testes de integração).
+- **Performance & Carga:** Locust (Testes de estresse e validação de resiliência de API).
+
+#### 🛠️ Ferramentas de Apoio & Banco de Dados:
+- **Validação de APIs:** Postman, Insomnia (Testes exploratórios e chamadas manuais).
+- **Documentação & Contratos:** Swagger UI (Exploração e validação de documentação de API).
+- **Gestão de Dados:** DBeaver (Consulta, manipulação e validação em bancos de dados).
+  
+#### 🏗️ **Arquitetura & Engenharia de QA:**
+- **Design Patterns:** Arquitetura Page Object Model (POM) para manutenção e escalabilidade de suites.
+- **Engenharia de Testes:** Desenvolvimento de frameworks customizados e Relatórios Automatizados (aplicação de Data-driven testing).
+- **Gestão de Ciclo de Vida:** Controle de versão (Git) e gestão de projetos (ClickUp e Jira).
 
 ### 📜 Missões em Andamento (Recent Projects)
-- **[Projeto SMGeo]:** Implementação de automação de API com geração de relatórios PDF customizados e integração JWT.
-- **[Ambiente de Testes]:** Estruturação de isolamento de ambiente para deploys mais seguros.
-- **[Performance]:** Validando a resiliência de endpoints com testes de carga massivos.
+- **Projeto SMGeo:** Desenvolvimento de framework de automação de APIs, incluindo integração com tokens JWT e geração de relatórios técnicos em PDF.
+- **Segurança & CI/CD:** Estruturação de ambientes isolados para garantia de deploys seguros e reprodutibilidade de testes.
+- **Performance & Resiliência:** Validação de resiliência de endpoints sob alta carga, utilizando testes de estresse para garantir a estabilidade do sistema em cenários críticos.
 
 ### 🎨 Crafting & Hobbies
-- **Design Visual:** Criação de imagens cinematográficas e photorealistic via IA.
-- **Exploração:** Interessado na intersecção entre tecnologia, agronomia e inovação.
-- **Classic Gears:** Manutenção preventiva e entusiasta de mecânica automotiva.
+- **Agronomia & Inovação:** Curiosidade ativa na intersecção entre tecnologia, automação agrícola e sustentabilidade no campo.
+- **Engenharia Automotiva:** Entusiasta de mecânica, com foco em manutenção preventiva e otimização de performance.
 
 ---
 
