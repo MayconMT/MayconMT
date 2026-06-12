@@ -1,4 +1,4 @@
-# [Maycon Mota]
+# Maycon Mota
 
 "Caçador de bugs, arquiteto de qualidade."
 
@@ -13,17 +13,17 @@
 ### 🛡️ Inventário Técnico (Tech Stack)
 - **Automação & Linguagens:** Python (Automação de testes e scripts de infraestrutura).
   
-#### 🧪 Frameworks de Testes:
+### 🧪 Frameworks de Testes:
 - **E2E & Web:** Selenium (Automação de fluxos em interfaces web).
 - **Backend & APIs:** Pytest, Behave (Implementação de BDD e testes de integração).
 - **Performance & Carga:** Locust (Testes de estresse e validação de resiliência de API).
 
-#### 🛠️ Ferramentas de Apoio & Banco de Dados:
+### 🛠️ Ferramentas de Apoio & Banco de Dados:
 - **Validação de APIs:** Postman, Insomnia (Testes exploratórios e chamadas manuais).
 - **Documentação & Contratos:** Swagger UI (Exploração e validação de documentação de API).
 - **Gestão de Dados:** DBeaver (Consulta, manipulação e validação em bancos de dados).
   
-#### 🏗️ **Arquitetura & Engenharia de QA:**
+### 🏗️ **Arquitetura & Engenharia de QA:**
 - **Design Patterns:** Arquitetura Page Object Model (POM) para manutenção e escalabilidade de suites.
 - **Engenharia de Testes:** Desenvolvimento de frameworks customizados e Relatórios Automatizados (aplicação de Data-driven testing).
 - **Gestão de Ciclo de Vida:** Controle de versão (Git) e gestão de projetos (ClickUp e Jira).
