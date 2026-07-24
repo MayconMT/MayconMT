@@ -23,7 +23,7 @@ Analista de QA com foco em elevar o padrão de qualidade e a resiliência de sis
   * **Performance & Carga:** Locust (testes de estresse e validação de resiliência).
 * **Ferramentas de Apoio & Banco de Dados:** Postman, Insomnia, Swagger UI, DBeaver.
 * **Arquitetura & Engenharia de QA:** Page Object Model (POM), Data-driven testing, criação de frameworks customizados e geração de relatórios automatizados.
-* **Gestão & Versionamento:** Git/GitHub, Jira, ClickUp.
+* **Gestão & Versionamento:** Git/GitHub, ClickUp.
 
 ### 🚀 Projetos & Realizações
 
