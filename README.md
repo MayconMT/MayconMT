@@ -1,5 +1,5 @@
 # Maycon Mota
-**Analista de Quality Assurance | Desenvolvedor Python**
+| **Analista de Quality Assurance** |
 📍 Palmas, TO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayconmt/)
@@ -18,7 +18,7 @@ Analista de QA com foco em elevar o padrão de qualidade e a resiliência de sis
 
 * **Linguagens & Automação:** Python (scripts de infraestrutura e automação de testes).
 * **Frameworks de Testes:** 
-  * **E2E & Web:** Selenium.
+  * **E2E & Web:** Selenium, Cypress.
   * **Backend & APIs:** Pytest, Behave (BDD).
   * **Performance & Carga:** Locust (testes de estresse e validação de resiliência).
 * **Ferramentas de Apoio & Banco de Dados:** Postman, Insomnia, Swagger UI, DBeaver.
